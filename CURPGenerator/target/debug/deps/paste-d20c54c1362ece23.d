@@ -1,0 +1,8 @@
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\paste-d20c54c1362ece23.dll: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\attr.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\error.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\segment.rs
+
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\paste-d20c54c1362ece23.d: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\attr.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\error.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\segment.rs
+
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\lib.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\attr.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\error.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\paste-1.0.14\src\segment.rs:

@@ -1,0 +1,9 @@
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\libjobserver-fe841d0e47d229a2.rmeta: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\error.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\windows.rs
+
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\libjobserver-fe841d0e47d229a2.rlib: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\error.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\windows.rs
+
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\jobserver-fe841d0e47d229a2.d: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\error.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\windows.rs
+
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\lib.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\error.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\jobserver-0.1.28\src\windows.rs:

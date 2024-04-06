@@ -1,0 +1,1 @@
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\CURPGenerator.exe: D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\src\main.rs

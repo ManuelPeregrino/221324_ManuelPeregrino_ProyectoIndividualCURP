@@ -1,0 +1,8 @@
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\libactix_codec-9754340e0cddc730.rmeta: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\bcodec.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\framed.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lines.rs
+
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\actix_codec-9754340e0cddc730.d: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\bcodec.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\framed.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lines.rs
+
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lib.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\bcodec.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\framed.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lines.rs:

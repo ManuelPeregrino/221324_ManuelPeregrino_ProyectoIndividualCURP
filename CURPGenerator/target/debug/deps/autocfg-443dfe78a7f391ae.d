@@ -1,0 +1,9 @@
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\libautocfg-443dfe78a7f391ae.rmeta: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\error.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\version.rs
+
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\libautocfg-443dfe78a7f391ae.rlib: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\error.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\version.rs
+
+D:\UPChiapas\Septimo\LenguajesyAutomatas\ProyectoCorte3Curp\221324_ManuelPeregrino_ProyectoIndividualCURP\CURPGenerator\target\debug\deps\autocfg-443dfe78a7f391ae.d: C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\lib.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\error.rs C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\version.rs
+
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\lib.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\error.rs:
+C:\Users\Manuel\ Peregrino\.cargo\registry\src\index.crates.io-6f17d22bba15001f\autocfg-1.1.0\src\version.rs:
